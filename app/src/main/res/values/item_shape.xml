@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearance.HighLight.Card" parent="ShapeAppearance.MaterialComponents">
+        <item name="cornerFamily">cut</item>
+
+        <item name="cornerSizeTopLeft">@dimen/item_card_corner_radius</item>
+        <item name="cornerSizeTopRight">@dimen/item_card_corner_radius</item>
+        <item name="cornerSizeBottomRight">@dimen/item_card_corner_radius</item>
+        <item name="cornerSizeBottomLeft">@dimen/item_card_corner_radius</item>
+
+    </style>
+</resources>
